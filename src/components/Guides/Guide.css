@@ -1,0 +1,107 @@
+.guide-landing
+{
+    width: 93%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    gap: 40px;
+    padding: 15px 100px;
+    margin:50px;
+}
+.guide-img
+{
+    width: 500px;
+    object-fit: cover;
+}
+.guide-head h1
+{
+    font-size: 40px;
+    font-weight: 650;
+    line-height: 1;
+    max-width: 400px;
+    color: black;
+}
+.guide-head h1 span{
+    font-weight: 800;
+}
+.guide-head p{
+    font-size: 20px;
+    line-height: 1.5;
+    padding-top: 15px;
+    margin-left: 5px;
+    color: black;
+}
+@media (max-width:992px)
+{
+    .guide-landing
+    {
+        height: 100%;
+        flex-direction: column;
+        padding: 20px 50px;
+        margin: 30px;
+        width:90%;
+    }   
+    
+    .guide-img
+    {
+        width: 100%;
+        object-fit: cover;
+    }
+    .guide-head h1
+    {
+        font-size: 35px;
+        font-weight: 650;
+        line-height: 1;
+        max-width:500px;
+        color: black;
+    }
+}
+@media (max-width:768px)
+{
+    .guide-landing
+    {
+        height: 100%;
+        flex-direction: column;
+        padding: 20px 50px;
+        margin: 20px;
+    }   
+    
+    .guide-img
+    {
+        width: 100%;
+        object-fit: cover;
+    }
+    .guide-head h1
+    {
+        font-size: 35px;
+        font-weight: 650;
+        line-height: 1;
+        max-width:500px;
+        color: black;
+    }
+}
+@media (max-width:576px)
+{
+    .guide-landing
+    {
+        height: 100%;
+        flex-direction: column;
+        padding: 20px 20px;
+    }   
+    
+    .guide-img
+    {
+        width: 100%;
+        object-fit: cover;
+    }
+    .guide-head h1
+    {
+        font-size: 30px;
+        font-weight: 650;
+        line-height: 1;
+        max-width:500px;
+        color: black;
+    }
+}

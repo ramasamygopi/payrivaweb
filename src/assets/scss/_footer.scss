@@ -1,0 +1,98 @@
+/*----------------------------------------*/
+/*  12. Footer CSS
+/*----------------------------------------*/
+
+.footer-bg-color{
+    background-color: #333333;
+}
+.ft-badge:hover{
+    color: #82469c;
+}
+.ft-badge-cl:hover
+{
+    color: #82469c;
+}
+.footer-header
+{
+    width: 98%;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-header h1{
+    color: ivory;
+    font-size: 30px;
+    font-weight: 600;
+}
+.footer-header button
+{
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color:#82469c;
+    color: white;
+}
+.footer-header button:hover{
+    background-color: white;
+    color: #82469c;
+}
+.foot
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.line
+{
+    height: 1px;
+    width: 98%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: var(--clr-gray-200);
+}
+.footer-section {
+    padding: 50px 0 0px;
+    overflow: hidden;
+    // Responsive
+    @media #{$tablet-device}{
+        padding: 80px 0 0px;
+    }
+    @media #{$large-mobile}{
+        padding: 60px 0 0px;
+    }
+}
+.footer-header
+{ 
+    @media #{$tablet-device}{
+        flex-direction: column;
+        align-items:flex-start;
+
+    }
+    @media #{$large-mobile}{
+        flex-direction: column;
+        align-items:flex-start;
+    }
+
+}
+.footer-widget-content ul li{
+    color: whitesmoke;
+}
+.footer-widget-content ul li:hover{
+    color: #82469c;
+}
+.copyright {
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+    padding: 20px 15px;
+    border-top: 1px solid var(--clr-gray-200);
+    color: var(--clr-white);
+    margin-bottom: 0;
+}
+.footer-social-inline{
+    display: flex;
+    gap: 20px;
+}

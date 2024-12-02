@@ -1,0 +1,67 @@
+.Thank-parent
+{
+    padding: 50px 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url(https://www.purpleslate.com/wp-content/uploads/2024/03/Group-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Thank-header h1
+{
+    font-size: 35px;
+    font-weight: 500;
+}
+.Thank-header p
+{
+    text-align: left;
+}
+.Thank-grid
+{
+    padding: 20px 0 0 0;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.grid-one 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+.grid-one h1{
+    font-size:25px;
+    font-weight: 400;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+.grid-one p 
+{
+    text-align: left;
+}
+@media (max-width:992px)
+{
+    .Thank-parent
+    {
+        padding: 20px 50px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background: url(https://www.purpleslate.com/wp-content/uploads/2024/03/Group-1.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .Thank-grid
+    {
+        padding: 20px 0 0 0;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 10px;
+    }
+}

@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/04/8th-Sep-2022-Introducing-the-Next-Frontier-driving-Digital-Revenue-Generation-%E2%80%93-Conversational-AI-1.png",
+        "Events":"Events",
+        "title": "Introducing the Next Frontier driving Digital Revenue Generation – Conversational AI",
+       
+        "description": "Conversational AI is the next frontier in the human-machine relationship and this conclusion is obvious. Voice-enabled systems..",
+        "author": {
+          "name": "Bharath S",
+          "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/bharath-s-100x100.jpg",
+          "date": "september 8, 2022|5 min read"
+        }
+      },
+      {
+        "id": 2,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/04/28th-July-2022-Drive-80-of-Your-Customer-Engagement-through-Conversational-Powered-Platforms_-1.png",
+          "Events":"Events",
+        "title": "Drive 80% of Your Customer Engagement through Conversational Powered Platforms",
+        "description": "The ‘new normal’ disrupted the entire way the world has ever functioned. Both internal and external customer-facing functions..",
+        "author": {
+            "name": "Bharath S",
+            "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/bharath-s-100x100.jpg",
+            "date": "July 18, 2022|10 min read"
+          }
+      },
+      {
+        "id": 3,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/04/19th-May-2022-Leverage-Conversational-AI-to-drive-Business-Insights-1.png",
+        "Events":"Events",
+        "title": "Leverage Conversational AI to drive Business Insights",
+        "description": "Learn how Conversational AI is helping enterprises access business data with advanced insights making it accessible at the right time..",
+        "author": {
+          "name": "Sivaram Parameswaren",
+          "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+          "date": "May 19, 2022 |2 min read"
+        }
+      },
+      {
+          "id":4 ,
+          "image": "https://www.purpleslate.com/wp-content/uploads/2023/04/10th-Mar-2022-Reimagine-Business-Intelligence-with-a-Conversational-Approach-1.png",
+          "Events":"Events",
+          "title": "Reimagine Business Intelligence with a Conversational Approach",
+          "description": "As enterprises increasingly focus on establishing a data-driven culture, the real goal of any such data program would be enabling access ...",
+          "author": {
+              "name": "Sivaram Parameswaren",
+              "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+              "date": "March 10, 2022 |1 min read"
+            }
+        },
+        {
+          "id":5 ,
+          "image": "https://www.purpleslate.com/wp-content/uploads/2023/04/10th-Feb-2022-Innovation-Powered-by-Conversational-AI-for-Digital-First-Insurance-Solutions-1.png",
+          "Events":"Events",
+          "title": "Innovation Powered by Conversational AI for Digital First Insurance Solutions",
+          "description": "In the wake of the pandemic, businesses globally have had to navigate a new normal. However, this challenging period has also.. ",
+          "author": {
+            "name": "Sivaram Parameswaren",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+            "date": "February 10, 2022 |5 min read"
+          }
+        },
+        {
+          "id":6 ,
+          "image": "https://www.purpleslate.com/wp-content/uploads/2023/04/14th-Apr-2022-Business-Intelligence-through-Conversational-AI-1.png",
+          "Events":"Events",
+          "title": "Business Intelligence through Conversational AI",
+          "description": "IToday, data is money for all organizations. Every business decision is based on detailed data analysis. Every investment decision is made... ",
+           "author": {
+              "name": "Sivaram Parameswaren",
+              "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+              "date": "April 14, 2022 |2 min read"
+            }
+        }
+]

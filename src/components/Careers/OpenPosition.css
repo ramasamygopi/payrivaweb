@@ -1,0 +1,46 @@
+.OpenPosition-Container{
+    margin: 100px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.block-container{
+ 
+padding: 30px;
+ 
+ 
+}
+.bloc{
+    border: 2px solid whitesmoke;
+    padding: 30px 30px;
+    width: 100%;
+    color: black;
+    border-radius: 20px;
+}
+#bold{
+    color: black;
+    font-weight: bold;
+}
+.bloc button{
+    background-color:purple;
+    color: white;
+    border-radius: 40px;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 5px;
+}
+ 
+@media all and (max-width:567px)
+{
+    .OpenPosition-Container{
+        margin: 50px 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+#content {
+color: #666;  
+}

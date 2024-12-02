@@ -1,0 +1,76 @@
+.about-funfact h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+.about-funfact
+{
+    padding: 20px;
+}
+.about-funfact p 
+{
+    font-size: 13px;
+    color: black;
+}
+.about-funfact .runup{
+    color: black;
+}
+.about-funfact button{
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    background-color: blueviolet;
+    font-size: 14px;
+    padding: 10px 30px;
+    color: ivory;
+}
+.tilt-content
+{
+    padding: 20px;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+.js-tilt .symbol
+{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: purple;
+    border-radius: 50%;
+}
+.symbol h1{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    transform: translateY(10px);
+}
+.symbol-content p
+{
+    font-size: 13px;
+    color: black; 
+    margin-top: 10px;
+}
+.symbol-content h2
+{
+    font-size: 15px;
+    color: black;
+}
+.about-funfact:hover .txt
+{
+    color: white;
+}
+@media (max-width:972px)
+{
+   .about-four
+    {
+        flex-direction: column;
+        padding: 20px;
+    }
+    .about-funfact
+    {
+        width: 100%;
+    }
+}

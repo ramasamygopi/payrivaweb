@@ -1,0 +1,209 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2017/08/modern-programming-1024x309.webp",
+      "Events":"Technology",
+      "title": "Ability to Code (from scratch).",
+     
+      "description": "Are you a programmer or anyway connected with software development? Let me ask you this question. When was the last&hellip;",
+      "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "October 30, 2022|4 min read"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2017/08/habit-loop.png",
+        "Events":"Conversational AI",
+      "title": " A much desired habit.",
+      "description": " Building habits take time, especially desired habit for a lifetime. This blog isn't about building an everlasting list of desired &hellip;",
+      "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "july 23, 2024|2 min read"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/02/Pri.Pub-LLM-1024x553.jpg",
+      "Events":"LLM",
+      "title": "Navigating the Choice: Public vs. Private Large Language Models",
+      "description": "In today's digital landscape, the utilization of Large Language Models (LLMs) has become ubiquitous across various industries.",
+      "author": {
+        "name": "pS Content Team",
+        "image": "https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+        "date": "October 28, 2022 |1 min read"
+      }
+    },
+    {
+        "id": 4,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/06/mj-quote-1024x737.webp",
+        "Events":"Data Analytics",
+        "title": "Data Intelligence &#8211; much more than the tools.",
+        "description": "Besides all the technologies and tools, what makes a good data analyst and what makes some organisations be so good.",
+         "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "september 22, 2024|10 min read"
+      }  
+      },
+      {
+        "id": 5,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/06/robot-with-flower-1024x640.jpg",
+        "Events":"When will Machines take over?",
+        "title": " Conversational AI Trends 2023 (Infographic)",
+        "description": "Civilization advances by extending the number of important operations we can perform without thinking about them. - Alfred North Whitehead;",
+         "author": {
+        "name": "Radha",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "september 19, 2024|7 min read"
+      }  
+     
+      },
+      {
+        "id": 6,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/05/robot-2140330_1280-959x1024.png",
+        "Events":"Conversational AI",
+        "title": "Rise of AI.",
+        "description": "Couple of interesting articles&nbsp;caught my attention this week related to the field of AI. Bill Gates' dose of motivation&nbsp;to the",
+         "author": {
+        "name": "Radha Srinivasan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "july 31, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 7,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/05/fabian-blank-78637-1024x682.jpg",
+        "Events":"Data Analyticst",
+        "title": "Invest in yourself",
+        "description": "One of the most fashionable topic for the news media these days is around Automation, Skills and Job Loss. While there&helli",
+         "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "july 30, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 8,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/05/learn.jpg",
+        "Events":"Artificial Intelligence",
+        "title": " Being a Learn-it-all.",
+        "description": "Happened to read a great interview in Business Insider from Microsoft CEO Satya Nadella. Ever since he took over Microsoft",
+         "author": {
+        "name": "pS Content Team",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "july 27, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 9,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/05/magic-cube-1976824_1280-757x1024.jpg",
+        "Events":" InsurTech",
+        "title": " Work skills of the Future",
+        "description": "According to the World Economic Forum's Future Jobs Report, in five years from now, nearly 1/3rd of the skills that&hellip;",
+         "author": {
+        "name": "Soundarya GB",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "july 27, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 10,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/02/robots-replace-humans-840x420-1.jpg",
+        "Events":" Conversational AI ",
+        "title": "Evolution of Chatbots (Infographic)",
+        "description": "The emergence of ChatGPT has caused a sensation worldwide, sparking conversations about chatbots. While chatbots may seem like a recent&hellip;",
+         "author": {
+        "name": "Radha Srinivasan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "May 20, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 11,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/02/rosling.jpeg",
+        "Events":" Conversational AI ",
+        "title": "Are Chatbots a Mandatory Customer Service Channel for 2023?",
+        "description": "Gartner has predicted that Chatbots will become the primary customer service channel by 2027. But with the ongoing trend, it&hellip;",
+         "author": {
+        "name": "Radha Srinivasan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "June 3, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 12,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/02/mv5bodm1ndmxmti3m15bml5banbnxkftztcwmdazody1ng-_v1_cr053560315_al_ux477_cr00477268_al_.jpg",
+        "Events":"Technology",
+        "title": "D-Commerce vs E-Commerce (Infographic)",
+        "description": "D-commerce vs E-commerce has been a subject of ongoing debate. To settle this discussion, we turn to an engaging infographic&hellip; ",
+         "author": {
+        "name": "Sridhar cS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "June 3, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 13,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2017/06/robot-with-flower-1024x640.jpg",
+        "Events":"Data Analytics",
+        "title": "Understanding More About the Art of Questioning from a Data Perspective",
+        "description": "When looking for information, it’s easy to get bogged down in the details. We all know this from personal experience:&hellip; ",
+         "author": {
+        "name": "Sridhar cS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 3, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 14,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2016/12/jargon-300x264-3.png",
+        "Events":"LLM",
+        "title": "Why Businesses Should Implement LLM-Powered Conversational AI Chatbots",
+        "description": "Businesses are constantly seeking innovative ways to enhance customer engagement, streamline operations, and stay ahead of the competition." ,
+        "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 22, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 15,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2016/12/i-love-learning-kid-1024x683.jpg",
+        "Events":"Generative AI",
+        "title": "How to Implement Omni-Channel Support Strategies for Credit Union Members",
+        "description": "Credit unions are finding it more and more crucial to offer smooth and uniform member support across a variety of channels in the current digital era." ,
+        "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 21, 2024|2 min read"
+      }  
+     
+      },
+      {
+        "id": 16,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2016/11/screen-shot-2016-11-25-at-8-47-26-am.png",
+        "Events":"Data Science",
+        "title": "Learning the WHY.",
+        "description": "I am often asked this question by people who aspire to start a career in Analytics and Data Science -&hellip;" ,
+        "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "May 21, 2024|2 min read"
+      }  
+     
+      }
+  
+  
+  ]

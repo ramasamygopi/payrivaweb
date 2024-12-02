@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "jobPosition":"Data Engineer",
+        "jobtype":"Full-time",
+        "content":"We hire people for not who they were; but more for who they could become. Hence, for that same reason we invest a good amount of our our time in curating our own tal..."
+    },
+    {
+        "id":2,
+        "jobPosition":"Fresh From Campus",
+        "jobtype":"Full-time",
+        "content":"We hire people for not who they were; but more for who they could become. Hence, for that same reason we invest a good amount of our our time in curating our own tal..."
+    },
+    {
+        "id":3,
+        "jobPosition":"Senior Full-Stack Developer",
+        "jobtype":"Full-time",
+        "content":"We are looking for full-stack engineers with deep coding experience in modern JS frameworks, primarily Angular and Node JS, Java Springboot, Postgres or Mongo in clo..."
+    }
+]

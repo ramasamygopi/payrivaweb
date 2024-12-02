@@ -1,0 +1,185 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/Siva-Webinar-2-1-768x415.jpg",
+      "Events":"Events",
+      "title": "Optimize Infrastructure Service spends with Data Insights",
+     
+      "description": "To Thrive in an Increasily compettive landscape,sales,professional and leaders must step up their data game and...",
+      "author": {
+        "name": "Sivaram Parameswaren",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "May 15, 2024|1 min read"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/04/Magesh-Webinar--768x415.jpg",
+        "Events":"Events",
+      "title": "Turbocharge Credit Union Member Engagement with Generative AI",
+      "description": "To Thrive in an Increasily compettive landscape,sales,professional and leaders must step up their data game and..",
+      "author": {
+        "name": "Mahesh Madadevan",
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Founders-PS1002-Magesh-DSC06004-100x100.jpg",
+        "date": "April 13, 2024|1 min read"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/03/3rd-april-2024-768x414.jpg",
+      "Events":"Events",
+      "title": "Enhance your Customer Retention with Conversational Insights",
+      "description": "Data collection and storage have evolved so much over the years that the world can confidently say data is abundant.",
+      "author": {
+        "name": "Sivaram Parameswaren",
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "March 4, 2024 |1 min read"
+      }
+    },
+    {
+        "id":4 ,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/02/Sivaram-Webinar-Banner-3-768x393.jpg",
+        "Events":"Events",
+        "title": "Achieve Revenue Growth with Kea: Harnessing Conversational Insights for Sales Success",
+        "description": "To thrive in an increasingly competitive landscape, sales professionals and leaders must step up their data game ...",
+        "author": {
+            "name": "Sivaram Parameswaren",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+            "date": "May 09, 2024 |10 min read"
+          }
+      },
+      {
+        "id":5 ,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/01/Magesh-Mahadevan.png",
+        "Events":"Events",
+        "title": "Accelerating CSAT Excellence: Leveraging Generative AI to Fast-Track Customer Rep Training",
+        "description": "In the dynamic landscape of customer service, where responsiveness and efficiency are paramount, businesses are.. ",
+        "author": {
+            "name": "Mahesh Madadevan",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Founders-PS1002-Magesh-DSC06004-100x100.jpg",
+            "date": "june, 2024|1 min read"
+          }
+      },
+      {
+        "id":6 ,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/10/Sivaram-Parameswaran-768x393.jpg",
+        "Events":"Events",
+        "title": "AI-Driven Insights: Harnessing Generative AI for Enhanced Business Intelligence",
+        "description": "In the contemporary landscape of business intelligence, where data reigns supreme, the pivotal role of Artificial Intelligence (AI)... ",
+         "author": {
+            "name": "Sivaram Parameswaren",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+            "date": "September 13, 2023 |5 min read"
+          }
+      },
+      {
+        "id": 7,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/10/November-15-Webinar-banner.jpg",
+        "Events":"Events",
+        "title": "From Data to Narrative: The Role of Generative AI in Enhancing Data Storytelling",
+        "description": "We all love stories, stories powered by data. Every data set has a story waiting for a narration, done the right way and data storytelling does exactly that.",
+        "author": {
+            "name": "Sivaram Parameswaren",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+            "date": "October 13, 2023 |5 min read"
+          }
+      },
+      {
+        "id":8 ,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/08/MicrosoftTeams-image-9.jpg",
+        "Events":"Events",
+        "title": "Achieving True Customer Delight with Generative Chatbots",
+        "description": "In today’s digitally connected world, businesses are continually seeking innovative ways to enhance customer experiences. Chatbots ",
+       "author": {
+        "name": "Mahesh Madadevan",
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Founders-PS1002-Magesh-DSC06004-100x100.jpg",
+        "date": "August 1, 2023|2 min read"
+      }
+      },
+      {
+        "id": 9,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/09/MicrosoftTeams-image-45.jpg",
+        "Events":"Events",
+        "title": "Automating Customer Service using LLM and Generative AI",
+        "description": "In the dynamic landscape of modern business, exceptional customer service is not just a competitive advantage; it’s a necessity for sustainable growth ",
+       "author": {
+        "name": "Mahesh Madadevan",
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Founders-PS1002-Magesh-DSC06004-100x100.jpg",
+        "date": "September 21, 2023|2 min read"
+      }
+      },
+      {
+        "id":10 ,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/07/MicrosoftTeams-image-6.jpg",
+        "Events":"Events",
+        "title": "Data Activation powered by Conversational Insights",
+        "description": "Data Activation is one of the essential pieces in the – data stack that makes data insights actionable for daily business users. ",
+      "author": {
+            "name": "Sivaram Parameswaren",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+            "date": "July 27, 2023 |2 min read"
+          }
+      },
+      {
+        "id":11 ,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/05/Magesh_Webinar_21.png",
+        "Events":"Events",
+        "title": "Reimagine Chatbots with Generative AI",
+        "description": "The advent of generative AI has the potential to transform chatbots from rigid, rule-based systems to more human-like... ",
+        "author": {
+            "name": "Mahesh Madadevan",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Founders-PS1002-Magesh-DSC06004-100x100.jpg",
+            "date": "May 18, 2023|5 min read"
+          }
+      },
+      {
+        "id":12 ,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/06/July-26-Webinar.jpg",
+        "Events":"Events",
+        "title": "Talk to your Data™ using a Conversational AI approach",
+        "description": "Data collection and storage have evolved so much over the years that the world can confidently say data is abundant.  ",
+       "author": {
+            "name": "Sivaram Parameswaren",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+            "date": "June 16 , 2023 |2 min read"
+          }
+      },
+      {
+        "id":13 ,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/04/17th-Nov-2022-Designing-a-Smart-Virtual-Assistant-in-Less-Than-a-Day-1.png",
+        "Events":"Events",
+        "title": "Designing a Smart Virtual Assistant in Less Than a Day",
+        "description": "As the need to engage with businesses digitally and through various collaborative and social media platforms continues to... ",
+        "author": {
+            "name": "Mahesh Madadevan",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Founders-PS1002-Magesh-DSC06004-100x100.jpg",
+            "date": "November 17 , 2022 |5 min read"
+          }
+      },
+      {
+        "id": 14,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/04/10th-Nov-2022-Simplified-Information-Access-using-Conversational-AI-1.png",
+        "Events":"Events",
+        "title": "Simplified Information Access using Conversational AI",
+        "description": "Data is money. Every critical decision, be it investment-related, product launch, or foray into a new market, everything is data-driven ",
+        "author": {
+            "name": "Sivaram Parameswaren",
+            "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+            "date": "November 14 , 2022 |10 min read"
+          }
+      },
+      {
+        "id": 15,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2022/12/08th-Dec-2022-Talk-to-your-Data%E2%84%A2-using-a-Conversational-AI-approach.png",
+        "Events":"Events",
+        "title": "Talk to your Data™ using a Conversational AI approach",
+        "description": "Data collection and storage have evolved so much over the years that the world can confidently say data is abundant. But visibility int ",
+        "author": {
+          "name": "Bharath s",
+          "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/bharath-s-100x100.jpg",
+          "date": "December 28,2022|2min read"
+        }
+      }
+ 
+ 
+  ]

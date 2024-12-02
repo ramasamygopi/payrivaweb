@@ -1,0 +1,28 @@
+.footer-social-inline a
+{
+    height: 32px;
+    width: 32px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    position:relative;
+}
+.footer-social-inline a .fa-brands{
+    font-size: 17px;
+    color: #82469c;
+}
+.footer-social-inline a .fab{
+    font-size: 17px;
+    color: #82469c;
+}
+.footer-social-inline a:hover
+{
+    background-color: rgba(255, 255, 255, 0.7);
+    filter: blur(0.3px);  
+}
+.fa-bolt
+{
+    color: gold;
+}

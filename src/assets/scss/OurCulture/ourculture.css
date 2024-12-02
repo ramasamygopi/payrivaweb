@@ -1,0 +1,228 @@
+.ourculture
+{
+    height: 100%;
+    width: 100%;
+    padding: 5px 80px;
+}
+.ourculture img{
+    padding: 0;
+    height: 600px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.ourculture-content
+{
+    display: flex;
+    width: 100%;
+    padding: 5px 50px;
+    align-items: center;
+    justify-content: center;
+}
+.oc-head
+{
+    height: 100%;
+    width: 40%;
+}
+.oc-head h1{
+    font-weight: 600;
+    font-size: 25px;
+}
+.oc-head h2{
+    max-width: 330px;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+}
+.oc-content
+{
+    width: 65%;
+}
+.oc-content h3
+{
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+}
+.oc-content h2{
+    font-size: 18px;
+    font-weight: 600;
+}
+.oc-down
+{
+    width: 100%;
+    padding: 50px 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.positive
+{
+    padding: 30px;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    transition: 1s;
+}
+.positive h1{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.7);
+}
+.positive h2
+{
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.6);
+    font-weight: 600;
+}
+.learn
+{
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 30px;
+    transition: 1s;
+}
+.learn h1{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.7);
+}
+.learn h2
+{
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.6);
+    font-weight: 600;
+}
+.positive:hover,.learn:hover
+{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.positive:hover h1{
+    color: ivory;
+}
+.positive:hover p{
+    color: ivory;
+}
+.learn:hover h1{
+    color: ivory;
+}
+.learn:hover p{
+    color: ivory;
+}
+@media (max-width:992px)
+{
+    .ourculture
+    {
+        padding: 10px;
+    }
+    .ourculture img
+    {
+        height: auto;
+        width: 100%;
+    }
+    .ourculture-content
+    {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .oc-head
+    {
+        width: 100%;
+    }
+    .oc-content
+    {
+        width: 100%;
+    }
+    .oc-down
+    {
+        gap: 20px;
+        flex-direction: column;
+        padding: 10px;
+    }
+    .positive
+    {
+        width: 100%;
+    }
+    .learn
+    {
+        width: 100%;
+    }
+}
+@media (max-width:768px)
+{
+    .ourculture
+    {
+        padding: 10px;
+    }
+    .ourculture img
+    {
+        height: auto;
+        width: 100%;
+    }
+    .ourculture-content
+    {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .oc-head
+    {
+        width: 100%;
+    }
+    .oc-content
+    {
+        width: 100%;
+    }
+    .oc-down
+    {
+        gap: 20px;
+        flex-direction: column;
+        padding: 10px;
+    }
+    .positive
+    {
+        width: 100%;
+    }
+    .learn
+    {
+        width: 100%;
+    }
+}
+@media (max-width:576px)
+{
+    .ourculture
+    {
+        padding: 10px;
+    }
+    .ourculture img
+    {
+        height: auto;
+        width: 100%;
+    }
+    .ourculture-content
+    {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .oc-head
+    {
+        width: 100%;
+    }
+    .oc-content
+    {
+        width: 100%;
+    }
+    .oc-down
+    {
+        gap: 20px;
+        flex-direction: column;
+        padding: 10px;
+    }
+    .positive
+    {
+        width: 100%;
+    }
+    .learn
+    {
+        width: 100%;
+    }
+}

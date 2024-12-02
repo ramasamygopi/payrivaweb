@@ -1,0 +1,196 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/Evolution-of-NLP-1024x553.jpg",
+      "Events":"Generative AI",
+      "title": "Evolution of NLP: From Past Limitations to Modern Capabilities",
+     
+      "description": "Natural Language Processing (NLP) represents a pivotal shift in the way humans interact with machines, breaking down the complexities of&hellip;",
+      "author": {
+        "name": "pS Content Team",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+        "date": "October 30, 2022|4 min read"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/02/Exploring-Conversational-AI-Use-Cases-for-Enterprises-1024x553.jpg",
+        "Events":"Conversational AI",
+      "title": " Exploring Conversational AI Use Cases for Enterprises",
+      "description": "As technology continues to advance at a rapid pace, businesses are constantly seeking new ways to streamline processes, improve customer&hellip;",
+      "author": {
+        "name": "pS Content Team",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+        "date": "july 23, 2024|2 min read"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/02/Pri.Pub-LLM-1024x553.jpg",
+      "Events":"LLM",
+      "title": "Navigating the Choice: Public vs. Private Large Language Models",
+      "description": "In today's digital landscape, the utilization of Large Language Models (LLMs) has become ubiquitous across various industries.",
+      "author": {
+        "name": "pS Content Team",
+        "image": "https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+        "date": "October 28, 2022 |1 min read"
+      }
+    },
+    {
+        "id": 4,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/07/Future-of-Data-analytics-1-1024x550.jpg",
+        "Events":"Data Analytics",
+        "title": "The Future Vision of Data Analytics (Infographic)",
+        "description": "The future of data analytics, data science, and data management holds immense intrigue as it evolves rapidly in a dynamic&hellip;",
+         "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "september 22, 2024|10 min read"
+      }  
+      },
+      {
+        "id": 5,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Conservational-AI-Trends-2023-1024x553.png",
+        "Events":"Conversational AI",
+        "title": " Conversational AI Trends 2023 (Infographic)",
+        "description": "Conversational AI is a programmatic and intelligent way of offering a conversational experience to mimic conversations with real people, through&hellip;",
+         "author": {
+        "name": "Radha",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "september 19, 2024|7 min read"
+      }  
+     
+      },
+      {
+        "id": 6,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Conversational-AI-in-Insurance-1024x553.png",
+        "Events":"Conversational AI",
+        "title": "Top 8 Use Cases of Conversational AI in Insurance",
+        "description": "Conversational AI solutions improve customer experience and enhance customer satisfaction by automating conversation and have found massive success in the&hellip;",
+         "author": {
+        "name": "Radha Srinivasan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "july 31, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 7,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/What-is-Data-Governance-1024x553.png",
+        "Events":"Data Analyticst",
+        "title": "Datafication – The Future Tense of Data Analytics:",
+        "description": "La Casa de Papel – Does it ring a bell? Are you familiar with this word? But it is surely&hellip;",
+         "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "july 30, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 8,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Collaborative-Intelligence-1024x553.jpg",
+        "Events":"Artificial Intelligence",
+        "title": "Collaborative Intelligence – Future of Human and Artificial Intelligence",
+        "description": "2023 dawned with a bang! Yes, with ChatGPT! In mainstream media, social media, podcasts, both in print and digital magazines,&hellip;",
+         "author": {
+        "name": "pS Content Team",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "july 27, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 9,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Top-10-Customer-centric-Insurtech-trends-for-2023-1024x553.png",
+        "Events":" InsurTech",
+        "title": " InsurTech Top Trends for 2023 (Infographic)",
+        "description": "Customer-centricity is a fundamental approach that prioritizes the needs and wants of customers, aiming to provide them with timely and&hellip;",
+         "author": {
+        "name": "Soundarya GB",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "july 27, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 10,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Evolution-of-Chatbots-1024x553.jpg",
+        "Events":" Conversational AI ",
+        "title": "Evolution of Chatbots (Infographic)",
+        "description": "The emergence of ChatGPT has caused a sensation worldwide, sparking conversations about chatbots. While chatbots may seem like a recent&hellip;",
+         "author": {
+        "name": "Radha Srinivasan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "May 20, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 11,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Are-Chatbots-mandatory-for-Customer-Service-1024x553.png",
+        "Events":" Conversational AI ",
+        "title": "Are Chatbots a Mandatory Customer Service Channel for 2023?",
+        "description": "Gartner has predicted that Chatbots will become the primary customer service channel by 2027. But with the ongoing trend, it&hellip;",
+         "author": {
+        "name": "Radha Srinivasan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "June 3, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 12,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/D-commerce-vs-E-commerce-1024x553.png",
+        "Events":"Technology",
+        "title": "D-Commerce vs E-Commerce (Infographic)",
+        "description": "D-commerce vs E-commerce has been a subject of ongoing debate. To settle this discussion, we turn to an engaging infographic&hellip; ",
+         "author": {
+        "name": "Sridhar cS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "June 3, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 13,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/The-Art-of-Questioning-your-Data-1024x553.png",
+        "Events":"Data Analytics",
+        "title": "Understanding More About the Art of Questioning from a Data Perspective",
+        "description": "When looking for information, it’s easy to get bogged down in the details. We all know this from personal experience:&hellip; ",
+         "author": {
+        "name": "Sridhar cS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 3, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 14,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/LLM-Powered-Chatbots.jpg",
+        "Events":"LLM",
+        "title": "Why Businesses Should Implement LLM-Powered Conversational AI Chatbots",
+        "description": "Businesses are constantly seeking innovative ways to enhance customer engagement, streamline operations, and stay ahead of the competition." ,
+        "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 22, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 15,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/Omni-Channel.jpg",
+        "Events":"Generative AI",
+        "title": "How to Implement Omni-Channel Support Strategies for Credit Union Members",
+        "description": "Credit unions are finding it more and more crucial to offer smooth and uniform member support across a variety of channels in the current digital era." ,
+        "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 21, 2024|2 min read"
+      }  
+     
+      }
+  
+  
+  ]

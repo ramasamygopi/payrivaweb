@@ -1,0 +1,172 @@
+.Digital-Parent
+{
+    height: 80vh;
+    width: 100%;
+    padding:0 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.left-content{
+    margin-bottom: 5px!important;
+}
+.left-content h1
+{
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+}
+.left-content p
+{
+    font-size: 18px;
+    color: black;
+    line-height: 1.5;
+}
+.left-content button{
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background-color: purple;
+    color: white;
+}
+.left-content h1 span{
+    color: rgba(0, 0, 0, 0.8);
+}
+.right-content
+{
+    width: 50%;
+    padding: 20px;
+}
+.Digital-transformation
+{
+    padding: 0 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.transformation
+{
+    width: 40%;
+    display: flex;
+    align-items: flex-start;
+}
+.transformation h1
+{
+    text-align: start;
+    font-size: 30px;
+    font-weight: 500;
+}
+.transformation-content
+{
+    width: 60%;
+}
+.transformation-content p
+{
+    font-size: 14px;
+    color: black;
+}
+@media(max-width:992px)
+{
+    .Digital-Parent
+    {
+        padding: 0 50px;
+        height: 100%;
+        flex-direction: column;
+    }
+    .left-content
+    {
+        width: 100%;
+    }
+    .right-content{
+        width: 100%;
+    }
+    .Digital-transformation
+    {
+        padding: 0 50px;
+        flex-direction: column;
+    }
+    .transformation
+    {
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .transformation-content
+    {
+        width: 100%;
+    }
+    .transformation h1
+    {
+        text-align: start;
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .transformation-content p
+    {
+        font-size: 15px;
+        color: black;
+    }
+}
+@media (max-width:768px)
+{
+    .Digital-Parent
+    {
+        padding: 0 50px;
+        height: 100%;
+        flex-direction: column;
+    }
+    .left-content
+    {
+        width: 100%;
+    }
+    .right-content{
+        width: 100%;
+    }
+    .Digital-transformation
+    {
+        padding: 0 50px;
+        flex-direction: column;
+    }
+    .transformation
+    {
+        width: 100%;
+    }      
+    .transformation-content
+    {
+        width: 100%;
+    }
+}
+@media (max-width:576px)
+{
+    .Digital-Parent
+    {
+        padding: 0 50px;
+        height: 100%;
+        flex-direction: column;
+    }
+    .left-content
+    {
+        width: 100%;
+    }
+    .right-content{
+        width: 100%;
+    }
+    .Digital-transformation
+    {
+        padding: 0 50px;
+        flex-direction: column;
+    }
+    .transformation
+    {
+        width: 100%;
+    }      
+    .transformation-content
+    {
+        width: 100%;
+    }
+    .left-content{
+        margin:5px 0px!important;
+    }
+}

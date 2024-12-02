@@ -1,0 +1,185 @@
+[
+    {
+    "id": 1,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Cross-selling-Insurance-Products.png",
+    "Events":"Conversational AI InsurTech",
+    "title": "Cross Selling Insurance Products with Conversational AI",
+   
+    "description": "Acquiring a new customer is the most difficult task in any business. It is considered to be 8 to 10 times more difficult for an insurance agent to onboard a new customer compared to other businesses....",
+    "author": {
+      "name": "Radha Krishnan",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+      "date": "january 16, 2024|7 min read"
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/how-different-.jpg",
+      "Events":"Conversational AI InsurTech",
+    "title": "How different Industries use conversational AI",
+    "description": "Conversational AI has seeped into almost every industry today and it is changing how businesses and individuals interact and perform everyday tasks. Customers and businesses alike have joined this AI..",
+    "author": {
+      "name": "Soundharya",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+      "date": "December 31, 2022|6 min read"
+    }
+  },
+  {
+    "id": 3,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Top-10-Customer-centric-Insurtech-trends-for-2023.png",
+    "Events":"InsureTech",
+    "title": "Top 10 Customer-centric Insurtech trends for 2023",
+    "description": "Customer centricity not only provides financial benefits but helps insurance organizations in branding, opening up new market segments and attracting Gen Z customers. It is estimated 37% of",
+    "author": {
+        "name": "Radha Krishnan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "December 31, 2022|10 min read"
+      }
+  },
+  {
+    "id": 4,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/82.png",
+    "Events":"InsureTech",
+    "title": "Multichannel vs Omnichannel – What is the difference?",
+    "description": "If you are operating a business today, you certainly know that your business is no longer limited to just the physical storefront. In fact, with e-commerce and social media, your business presence can feel",
+    "author": {
+        "name": "Soundharya",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "November 30, 2022|4 min read"
+      }  
+  },
+  {
+    "id": 5,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Boost-Holiday-Sales-With-Conversational-Commerce.png",
+    "Events":"Conversational AI",
+    "title": "Boost Holiday Sales with Conversational Commerce",
+    "description": "As the holiday season approaches, retailers are already looking for ways to make the most of their sales. Conversational commerce is an increasingly popular way to interact with customers and help",
+    "author": {
+        "name": "Soundharya",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "December 19, 2022|5 min read"
+      }  
+  },
+  {
+    "id": 6,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Predictive-Analytics-in-Insurance.png",
+    "Events":"InsureTech",
+    "title": "What is Predictive Analytics – How does it benefit the Insurance Sector",
+    "description": "Predictive analytics is the use of advanced data analysis and machine learning techniques to predict future outcomes and trends. It is transforming the way insurance businesses operate and is",
+    "author": {
+        "name": "Soundharya",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "December 22, 2022|10 min read"
+      }  
+  },
+ 
+  {
+    "id": 7,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Embedded-Insurance-1.png",
+    "Events":"InsureTech",
+    "title": "An Overview to Embedded Insurance",
+    "description": "Tesla is leveraging the data collected from its vehicle’s embedded system to foray into the Insurance Industry through embedded Insurance. Tesla predicts that embedded Insurance could deliver 30-40% of Tesla’s total value in the future.",
+    "author": {
+        "name": "Radha Krishnan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "December 22, 2022|8 min read"
+      }
+  },
+  {
+    "id": 8,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/62-3.png",
+    "Events":"Conversational AI",
+    "title": "Leveraging WhatsApp Business with Conversational AI",
+    "description": "The world is increasingly conversational today than it has ever been. Traditionally, businesses contacted customers through SMS and emails. With the evolution of technology and of social.",
+    "author": {
+        "name": "Soundharya",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "December 22, 2022|6 min read"
+      }  
+ 
+  },
+  {
+    "id": 9,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/63.png",
+    "Events":"Conversational AI InsurTech",
+    "title": "Coming of Age: How Gen Z is Transforming Insurance",
+    "description": "As a generation, Gen Z is different from any that have come before and their life journeys have not followed the traditional path set by older generations. They are digital natives who have grown up in a",
+    "author": {
+        "name": "Soundharya",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "December 20, 2022|2 min read"
+      }  
+  },
+  {
+    "id": 10,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/80-1.png",
+    "Events":"Conversational AI ",
+    "title": "8 Major Roadblocks for Conversational AI",
+    "description": "One aspect controls all three tenets binding them seamlessly together – Communication. Right from the hunter-gatherer tribes hunting in packs to modern human beings building spaceships, communication has turned out to be the key ",
+    "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "December 15, 2022|10 min read"
+      }  
+  },
+  {
+    "id": 11,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/73.png",
+    "Events":"Conversational AI ",
+    "title": "How Digital Transformation is changing the Insurance Landscape",
+    "description": "InsurTech has become a powerful driver of change in the insurance sector. There’s a lot of potential for technology to transform this industry and automate repetitive and time-consuming tasks ",
+    "author": {
+        "name": "Soundharya",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "November 12, 2022 |8 min read"
+      }  
+  },
+  {
+    "id": 12,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/1-1.png",
+    "Events":"InsureTech",
+    "title": "Hyper-Personalization in Insurance",
+    "description": "Personalization – What is it? Cart abandonment is a nightmare for every online business. Though various reasons are attributed to this type of customer behavior, the major cause found was the time consumption involved in",
+    "author": {
+        "name": "Radha Krishnan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+        "date": "December 22, 2022|8 min read"
+      }
+  },
+  {
+    "id": 13,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/1-1.png",
+    "Events":"Conversational AI ",
+    "title": "Leveraging Conversational AI to Automate Social Media Interactions",
+    "description": "Social media has always been an integral part of every business’s marketing strategy. A study says that 51.7% of businesses have turned to social media marketing ever since the pandemic. Automation",
+    "author": {
+        "name": "Soundharya",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "November 10, 2022 |10 min read"
+      }  
+  },
+  {
+    "id": 14,
+    "image": "https://www.purplescape.com/wp-content/uploads/2022/11/Old-Blog-Banners-Purplescape-65.jpg",
+    "Events":"Business Intelliigence",
+    "title": "Search Driven Analytics – Do We Really Need It?",
+    "description": "We have to credit Richard Miller Devens for coining the term “Business Intelligence”. He was intrigued by how Sir Henry Furnese, a banker in Victorian England used the information he gathered to create an",
+    "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "November 19, 2022|10 min read"
+      }  
+  },
+  {
+    "id": 15,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Challanges-in-Voice-based-Interfaces.png",
+    "Events":"Conversational AI ",
+    "title": "5 Factors That Limit Practical Applications of Voice-Based Interface",
+    "description": "In recent years, innovative technologies and new algorithms have enabled the development of many intelligent voice assistants. As a result, voice assistants are growing more and more common in our",
+    "author": {
+        "name": "Soundharya",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+        "date": "November 4, 2022 |10 min read"
+      }  
+  }
+]

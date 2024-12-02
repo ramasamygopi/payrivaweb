@@ -1,0 +1,150 @@
+[
+    {
+    "id": 1,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/data-integration.png",
+    "Events":"Data Enginerring Management Technology",
+    "title": "What is Data Integration?",
+   
+    "description": "Data integration is a renowned and crucial aspect of today’s business world. Current competition in the business sector is based on how well and fast one can use the data assets to obtain significant...",
+    "author": {
+      "name": "Radha Krishnan",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2022/10/PSV00011-Radha-S-100x100.png",
+      "date": "August 11, 2022|10 min read"
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Data-Mining.png",
+    "Events":"Data Enginerring Management Technology",
+    "title": "What is Data Mining?",
+    "description": "We are currently in a data-driven world, rich in information. Knowing there is superfluous and readily available information can feel comforting. However, the more there is available knowledge, the more..",
+    "author": {
+      "name": "Soundharya",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+      "date": "August 10, 2022|10 min read"
+    }
+  },
+  {
+    "id": 3,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/CAI-is-here-.png",
+    "Events":"Artificial Intelligence",
+    "title": "Conversational AI is here – Are you ready?",
+    "description": "When computers were first invented, you could communicate with them only through coding languages. Then, came the graphic user interface where you could click on icons",
+    "author": {
+        "name": " Magesh Madhavan",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/02/Founders-PS1002-Magesh-DSC06004-100x100.jpg",
+        "date": "July 26, 2022|6 min read"
+      }
+  },
+  {
+    "id": 4,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Apache-Learn.jpg",
+    "Events":" Data Enginerring Education Technology",
+    "title": "Learn How Apache Spark Programs are Executed",
+    "description": "We discussed about the fundamentals of an Apache Spark system including its architecture in the previous blog. We shared the basic differences between Resilient Distributed Datasets and..",
+    "author": {
+        "name": "Lakshminarasimhan V",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Lakshmi-Narasimhan-100x100.jpg",
+        "date": "July 14, 2022|3 min read"
+      }
+  },
+  {
+    "id": 5,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/world-of-spark.png",
+    "Events":" Data Enginerring Education Technology",
+    "title": "Introduction To The World Of Apache Spark In Big Data Analytics",
+    "description": "InfoWorld defines Apache Spark as a data processing framework that can quickly perform processing tasks on very large data sets, and can also distribute data processing tasks across multiple.",
+    "author": {
+        "name": "Lakshminarasimhan V",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Lakshmi-Narasimhan-100x100.jpg",
+        "date": "July 5, 2022|10 min read"
+      }
+  },
+  {
+    "id": 6,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Conversational-AI-for-Customer-Engagement-1-768x415.png",
+    "Events":" Artificial Intelligence",
+    "title": "The Three Personalities Every Conversational Chatbot Needs To Play",
+    "description": "Stephen Windham, known as Steve among the business community in North America is the chief of staff for a Fortune 100 company. He steadily rose through the ranks with a blend ..",
+    "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "July 24, 2022|5 min read"
+      }
+  },
+  {
+    "id": 7,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2022/05/REVOLITIONIZE-ANALYTICS.png",
+    "Events":" Data Science, Data Visualization",
+    "title": "How Language could revolutionise Analytics.",
+    "description": "Since the genesis of computers, one of the major question that has driven the evolution of the digital device is – How would Humans interact with the Computers? Especially in",
+    "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "May 1 ,2022|7 min read"
+      }
+  },
+  {
+    "id": 8,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2022/04/RESPONSIBLE-AI.png",
+    "Events":"Back To Basics, Technology",
+    "title": "Responsible AI",
+    "description": "Responsible AI is the practice of designing, developing, and deploying AI with good intention to empower employees and businesses, and fairly impact customers and society – allowing..",
+    "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "April 20 ,2022|2 min read"
+      }
+  },
+  {
+    "id": 9,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/02/Digital-1.jpg",
+    "Events":"Back To Basics, Technology",
+    "title": "Digital Transformation.",
+    "description": "Digital Transformation has now become much more than a buzz word across the globe – in board rooms to corporate goals to CIO agenda, benefitting both organizations and consumers equally...",
+    "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "April 3 ,2022|2 min read"
+      }
+  },
+  {
+    "id": 10,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2017/10/Rectangle-260-1.jpg",
+    "Events":"Back To Basics, Technology",
+    "title": "Results.",
+    "description": "So, we are done with another edition of our Art of Coding class, where we teach our students on the nuances of programming practices, with special emphasis on problem-solving methods, software engineering and along the way writing lots of ...",
+    "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "October 5 ,2017 |5 min read"
+      }
+  },
+  {
+    "id": 11,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2017/09/Rectangle-260-2.jpg",
+    "Events":"Education Technology",
+    "title": "So, what does it take to be a good programmer today?",
+    "description": "Is it Angular, React, Vue, Node or AI or Machine Learning, Tensor Flow, Cloud, Big Data, Android? The very definition of a ‘good programmer’ these days has become a function of technology tools than anything else",
+    "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "September 18 ,2017 |2 min read"
+      }
+  },
+  {
+    "id": 12,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2017/09/Rectangle-260-4.jpg",
+    "Events":" Culture Education Technology",
+    "title": "The Switch.",
+    "description": "The underlying thread that defines success and fulfilment of the human generations, more so in today’s context of a flat, networked world is, Aspiration. Read more about the Switch below.Aspiration does not necessarily mean solely going after wealth and material gains",
+    "author": {
+        "name": "Sivaram Parameswaran",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "September 4 ,2017 |1 min read"
+      }
+  }
+ 
+ 
+ 
+]

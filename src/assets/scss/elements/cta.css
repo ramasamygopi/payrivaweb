@@ -1,0 +1,189 @@
+.Moreon-parent
+{
+    padding: 0px;
+}
+.Moreon
+{
+    display: flex;
+    width: 100%;
+    padding: 20px 80px;
+    align-items: center;
+    justify-content: center;
+}
+.moreon-head
+{
+    height: 100%;
+    display: flex;
+    align-self: start;
+    width: 30%;
+}
+.moreon-head h1{
+    font-weight: 500;
+    font-size: 25px;
+}
+.moreon-content
+{
+    width: 65%;
+}
+.moreon-content p
+{
+    font-size: 14px;
+    color: black;
+}
+.Moreon-down
+{
+    width: 100%;
+    padding: 10px 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.digital
+{
+    width: 35%;
+    padding: 20px ;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    transition: 1s;
+}
+.digital h1{
+    font-size: 18px;
+    font-weight: 400;
+}
+.digital p
+{
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.6);
+    font-weight: 500;
+}
+.convoai
+{
+    width: 50%;
+    padding: 20px ;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    transition: 1s;
+}
+.convoai h1{
+    font-size: 18px;
+    font-weight: 400;
+}
+.convoai p
+{
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.6);
+    font-weight: 500;
+}
+.digital:hover,.convoai:hover
+{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.digital:hover h1{
+    color:ivory;
+}
+.digital:hover p{
+    color: ivory;
+}
+.convoai:hover h1{
+    color: ivory;
+}
+.convoai:hover p{
+    color: ivory;
+}
+@media (max-width:992px)
+{
+    .Moreon
+    {
+        flex-direction: column;
+        padding: 20px;
+    }
+    .moreon-head
+    {
+        width: 100%;
+    }
+    .moreon-content
+    {
+        width: 100%;
+    }
+    .Moreon-down
+    {
+        padding: 30px;
+        gap: 20px;
+        flex-direction: column;
+    }
+    .digital
+    {
+        width: 100%;
+        padding: 10px;
+    }
+    .convoai
+    {
+        padding: 10px;
+        width: 100%;
+    }
+}
+@media (max-width:768px)
+{
+    .Moreon
+    {
+        flex-direction: column;
+        padding: 20px;
+    }
+    .moreon-head
+    {
+        width: 100%;
+    }
+    .moreon-content
+    {
+        width: 100%;
+    }
+    .Moreon-down
+    {
+        padding: 30px;
+        gap: 20px;
+        flex-direction: column;
+    }
+    .digital
+    {
+        width: 100%;
+        padding: 10px;
+    }
+    .convoai
+    {
+        padding: 10px;
+        width: 100%;
+    }
+}
+@media (max-width:576px)
+{
+    .Moreon
+    {
+        flex-direction: column;
+        padding: 20px;
+    }
+    .moreon-head
+    {
+        width: 100%;
+    }
+    .moreon-content
+    {
+        width: 100%;
+    }
+    .Moreon-down
+    {
+        padding: 30px;
+        gap: 20px;
+        flex-direction: column;
+    }
+    .digital
+    {
+        width: 100%;
+        padding: 10px;
+    }
+    .convoai
+    {
+        padding: 10px;
+    width: 100%;
+    }
+}

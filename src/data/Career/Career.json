@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "question":"What do you look for in candidates?",
+        "answer":"Very simple. Is your answer predominantly YES to all of these? Then, say Hello at people@payriva.com  1.I like solving problems 2.I am good at creating things 3.I can write beautiful code 4.I am passionate about technology 5.I like working in small teamsI am a quick learner 6.I want to leave an impact."
+    },
+    {
+        "id":2,
+        "question":"So, how do I join Payriva?",
+        "answer":"We also believe, these days, you can’t land a job just by submitting your resume. We really don’t care where you studied or where you worked. We love to see your work – be it coding skills or anything else that you are endowed with and which you feel would add value to payriva So, share with us your Github repo or other stuff that you built and that you are proud of."
+    },
+    {
+        "id":3,
+        "question":"Do you hire graduates out of college?",
+        "answer":"Yes, we do hire from campuses and we believe firmly in grooming our own talent from schools. We hire people for not who they were; but more for who they could become. Hence, for that same reason we invest a good amount of our our time in curating our own talent from schools, that too not from the usual big name institutions (not that we don’t like them). But, from any place that is as anywhere it can get. School pedigree, doesn’t matter much to us."
+    },
+    {
+        "id":4,
+        "question":"Are you recruiting?",
+        "answer":"Of course, yes. We always believe anytime is a great time to welcome great talent. Say Hello at people@payriva.com Or, to make it very simple, share with us your Github repo or other stuff that you built and that you are proud of."
+    },
+    {
+        "id":5,
+        "question":"What specific skills are you looking for?",
+        "answer":"If there is any interesting and cutting-edge technology available in the horizon, we will most likely be tinkering with it, as we constantly experiment and refine our approach to solve some interesting problems. Scroll down a bit to see the technologies that we are currently playing with. In addition, we are also looking for folks with expertise in Test Automation, using tools like Selenium and creative people who are good at stuff like Content Writing and creating digital content, including Videos, and illustrations."
+    }
+ 
+   
+   
+]

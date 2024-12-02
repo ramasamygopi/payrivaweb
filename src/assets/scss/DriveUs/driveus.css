@@ -1,0 +1,172 @@
+.drive-parent
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    padding: 50px 100px;
+}
+.drive-parent h1{
+    font-size: 40px;
+    font-weight: 500;
+}
+.drive-content
+{
+    padding: 20px 0 ;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.inno,.pass,.belief
+{
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    border:0.5px solid rgba(0, 0, 0,0.3);
+}
+.inno:hover,.pass:hover,.belief:hover{
+    background-color: purple;
+    color: ivory;
+}
+.inno:hover h1{
+    
+    color: ivory;
+}
+.inno:hover h2{
+    
+    color: ivory;
+}
+.pass:hover h1{
+    
+    color: ivory;
+}
+.pass:hover h2{
+    
+    color: ivory;
+}
+.belief:hover h1{
+    
+    color: ivory;
+}
+.belief:hover h2{
+    
+    color: ivory;
+}
+.inno-content h1,.pass-content h1, .belief-content h1{
+    font-size: 18px;
+    font-weight: 500;
+}
+.inno-content h2,.pass-content h2, .belief-content h2{
+    font-size: 13px;
+    font-weight: 300;
+    max-width: 240px;
+    color: black;
+}
+.inno-img,.pass-img,.belief-img
+{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.inno-img img,.pass-img img,.belief-img img{
+    height: 70px;
+    width: 70px;
+}
+@media (max-width:992px)
+{
+    .drive-parent
+    {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+        padding: 20px 20px;
+    } 
+    
+.drive-parent h1{
+    font-size: 30px;
+    font-weight: 500;
+}
+.drive-content
+{
+    padding: 20px 0 ;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 20px;
+}
+.inno,.pass,.belief
+{
+    width: 100%;
+    padding: 20px;
+}
+.inno-content
+{
+    width: 100%;
+}
+}
+@media (max-width:768px)
+{
+    .drive-parent
+    {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+        padding: 20px 20px;
+    } 
+.drive-content
+{
+    padding: 20px 0 ;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 20px;
+}
+.inno,.pass,.belief
+{
+    width: 100%;
+    padding: 20px;
+}
+.inno-content
+{
+    width: 100%;
+}
+}
+@media (max-width:576px)
+{
+    .drive-parent
+    {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+        padding: 20px 20px;
+    } 
+.drive-content
+{
+    padding: 20px 0 ;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 20px;
+}
+.inno,.pass,.belief
+{
+    width: 100%;
+    padding: 20px;
+}
+.inno-content
+{
+    width: 100%;
+}
+}

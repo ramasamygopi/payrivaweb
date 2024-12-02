@@ -1,0 +1,195 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/09/Onboarding-in-Insurance.jpg",
+      "Events":"Conversational AI InsurTech",
+      "title": "Conversational AI: The Key to Unlocking Seamless Digital Onboarding in Insurance",
+     
+      "description": "The process of onboarding in the insurance industry has long been a pain point for both insurers and customers. With traditionally paper-heavy systems...",
+      "author": {
+        "name": "Ranjith Kumar",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1122-Ranjith-Kumar-S-DSC06565-100x100.png",
+        "date": "july 23, 2024|2 min read"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/07/Data-Analytics-in-InsurTech.jpg",
+        "Events":"Data Analytics",
+      "title": "Data Analytics and Personalization in InsurTech: Customizing Insurance Solutions",
+      "description": "Have you ever wondered how insurance companies can tailor their products to meet your specific needs? In the rapidly evolving landscape..",
+      "author": {
+        "name": "Ranjith Kumar",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1122-Ranjith-Kumar-S-DSC06565-100x100.png",
+        "date": "july 23, 2024|2 min read"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/06/Advanced-BI-Tools.jpg",
+      "Events":"Business Intelligence",
+      "title": "Revolutionizing Decision-Making: The Power of Advanced BI Solutions",
+      "description": "Businesses are flooded with enormous amounts of data generated from diverse sources in today’s data-driven world. To make sense of this.",
+      "author": {
+        "name": "Sivaram Parameswaren",
+        "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "March 4, 2024 |1 min read"
+      }
+    },
+    {
+        "id": 4,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/09/Policyholder-Retention.jpg",
+        "Events":"Artificial Intelligence InsurTech",
+        "title": "Enhancing Policyholder Retention Through AI-Driven Customer Engagement",
+        "description": "Retaining policyholders has become one of the most pressing challenges in the insurance industry today. With an increasingly competitive market.",
+         "author": {
+        "name": "Ranjith Kumar",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1122-Ranjith-Kumar-S-DSC06565-100x100.png",
+        "date": "september 22, 2024|10 min read"
+      }  
+      },
+      {
+        "id": 5,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/09/Personalization-in-Insurance.jpg",
+        "Events":"Digital information InsurTech",
+        "title": "Leveraging AI to Drive Hyper-Personalization in the Insurance Industry",
+        "description": "Consumers today expect more than generic products and services—they demand hyper-personalization. This trend has reshaped industries.",
+         "author": {
+        "name": "Ranjith Kumar",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1122-Ranjith-Kumar-S-DSC06565-100x100.png",
+        "date": "september 19, 2024|7 min read"
+      }  
+     
+      },
+      {
+        "id": 6,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/08/Customer-Engagement-in-Insurtech.jpg",
+        "Events":"InsurTech",
+        "title": "Revolutionizing Insurance: Digital Customer Engagement Strategies in InsurTech",
+        "description": "The insurance industry has historically faced challenges with customer service, often characterized by lengthy procedures and impersonal interactions..",
+         "author": {
+        "name": "Ranjith Kumar",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1122-Ranjith-Kumar-S-DSC06565-100x100.png",
+        "date": "july 31, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 7,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/07/Cloud-based-solutions.jpg",
+        "Events":"InsurTech",
+        "title": "Cloud-Based Solutions for InsurTech: Enabling Scalability, Flexibility, and Remote Work",
+        "description": "It takes creativity and flexibility to stay ahead of the curve in the insurance industry, which is always changing. The use of cloud-based solutions..",
+         "author": {
+        "name": "Ranjith Kumar",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1122-Ranjith-Kumar-S-DSC06565-100x100.png",
+        "date": "july 30, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 8,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/07/End-to-End-Digitazation.jpg",
+        "Events":"InsurTech",
+        "title": "End-to-End Digitization of Insurance Processes: Achieving Seamless Customer Journeys",
+        "description": "The traditional insurance model, characterized by manual processes, extensive paperwork, and prolonged turnaround times, no longer..",
+         "author": {
+        "name": "Ranjith Kumar",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1122-Ranjith-Kumar-S-DSC06565-100x100.png",
+        "date": "july 27, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 9,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/07/AI-in-InsurTech.jpg",
+        "Events":" Artificial Intelligence InsurTech",
+        "title": "The Rise of AI in InsurTech: Transforming Customer Experience",
+        "description": "Have you ever thought about how the insurance industry, often perceived as the turtle in the innovation race, is embracing technology ..",
+         "author": {
+        "name": "Ranjith Kumar",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1122-Ranjith-Kumar-S-DSC06565-100x100.png",
+        "date": "july 27, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 10,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/BI-in-Digital-Banks-.jpg",
+        "Events":" Business Intelligence ",
+        "title": "How Digital Banks can Leverage AI-Driven Business Intelligence with Kea",
+        "description": "Digital banks, characterized by their online-only presence and customer-centric approach, are at the forefront of the digital revolution in the banking sectory..",
+         "author": {
+        "name": "Sridhar cS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 20, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 11,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/06/Decision-Intelligence-.jpg",
+        "Events":" Business Intelligence ",
+        "title": "From Data to Decisions: How Conversational BI Elevates Decision Intelligence",
+        "description": "Making informed decisions quickly and accurately is crucial for organizations to maintain a competitive edge in modern times. Right..",
+         "author": {
+        "name": "Sridhar cS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "June 3, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 12,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/Onboarding-Processes.jpg",
+        "Events":"Artificial Intelligence InsurTech",
+        "title": "How can Credit Unions Streamline Member Onboarding with AI Chatbots?",
+        "description": "Efficient member onboarding processes are crucial for credit unions to ensure a seamless and satisfactory experience for new members. ",
+         "author": {
+        "name": "Sridhar cS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "June 3, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 13,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/AGI.jpg",
+        "Events":"Generative AI",
+        "title": "Understanding Artificial General Intelligence (AGI): The Future of AI Technology",
+        "description": "Imagine a world where machines not only perform specific tasks but also understand, learn, and reason like humans. This future is not far off, thank.. ",
+         "author": {
+        "name": "Sridhar cS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 3, 2024|10 min read"
+      }  
+     
+      },
+      {
+        "id": 14,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/LLM-Powered-Chatbots.jpg",
+        "Events":"LLM",
+        "title": "Why Businesses Should Implement LLM-Powered Conversational AI Chatbots",
+        "description": "Businesses are constantly seeking innovative ways to enhance customer engagement, streamline operations, and stay ahead of the competition." ,
+        "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 22, 2024|5 min read"
+      }  
+     
+      },
+      {
+        "id": 15,
+        "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/Omni-Channel.jpg",
+        "Events":"Generative AI",
+        "title": "How to Implement Omni-Channel Support Strategies for Credit Union Members",
+        "description": "Credit unions are finding it more and more crucial to offer smooth and uniform member support across a variety of channels in the current digital era." ,
+        "author": {
+        "name": "Sridhar CS",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+        "date": "May 21, 2024|2 min read"
+      }  
+     
+      }
+ 
+]

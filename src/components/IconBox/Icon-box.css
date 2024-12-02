@@ -1,0 +1,28 @@
+@media(max-width:992px)
+
+{
+    .icon-box
+    {
+        width: 100%;
+    }
+}
+@media(max-width:768px)
+
+{
+    .icon-box
+    {
+        width: 100%;
+    }
+}
+@media(max-width:576px)
+
+{
+    .icon-box
+    {
+        width: 100%;
+    }
+}
+#link{
+    color:purple;
+    font-weight: bold;
+}

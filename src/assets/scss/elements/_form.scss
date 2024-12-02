@@ -1,0 +1,71 @@
+/* 04.6 Form CSS */
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"] {
+    width: 100%;
+    min-height: 46px;
+    padding: 3px 20px;
+
+    color: var(--clr-body);
+    border: 1px solid #F5F5F5;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+    outline: none;
+    background-color: #F5F5F5;
+
+@include placeholder {
+        color: #9F9F9F;
+    }
+
+    &:focus {
+        border-color: var(--clr-primary);
+        background-color: var(--clr-white);
+    }
+}
+.btn-btn
+{
+    border: none;
+    outline: none;
+    padding: 10px 40px;
+    border-radius: 30px;
+    background-color: var(--clr-primary);
+    color:white;
+}
+textarea{
+    width: 100%;
+    min-height: 130px;
+    padding: 10px 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color: var(--clr-body);
+    border: 1px solid #F5F5F5;
+    border-radius: 5px;
+    outline: none;
+    background-color: #F5F5F5;
+
+    @include placeholder {
+        color: #9F9F9F;
+    }
+
+    &:focus {
+        border-color: var(--clr-primary);
+        background-color: var(--clr-white);
+    }
+}
+
+.single-input{
+    label{
+        color: var(--clr-heading);
+    }
+    .description{
+        font-style: italic;
+        margin-top: 10px;
+        font-size: 14px;
+        line-height: 1.4;
+        margin-bottom: 0;
+    }
+}

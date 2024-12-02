@@ -1,0 +1,13 @@
+.about-content-area
+{
+    border: 0.5px solid rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 20px 10px;
+}
+.about-content-area:hover
+{
+    border: 0.5px solid rgba(0, 0, 0, 0.6);
+   background-color: #82469c;
+   color: white;
+}

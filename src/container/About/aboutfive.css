@@ -1,0 +1,94 @@
+.AboutFive
+{
+    padding: 50px 50px;
+    width: 100%!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.left-content
+{
+    border-radius: 30px;
+    width: 50%;
+    padding: 20px;
+    transition: 1s;
+}
+.left-content:hover{
+    border: 0.5px solid rgba(0, 0, 0, 0.08);   
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    transform: translateY(-5px);
+}
+.left-content h2
+{
+    font-size: 25px;
+    font-weight: 600;
+}
+.left-content #convo
+{
+    font-size: 17px;
+    color: black;
+    line-height: 1.4;
+}
+.left-content h1{
+    font-size: 18px;
+    font-weight: 700;
+}
+.left-content #we
+{
+    font-size: 13px;
+    color: black;
+}
+.right-content
+{
+    padding: 30px 0;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    width: 500px;
+    position: relative;
+}
+.right-content h1
+{
+    font-size: 40px;
+    font-weight: 300;
+    padding-left: 50px;
+}
+.right-content h1 span{
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    letter-spacing: 5px;
+}
+.inside
+{
+    background-color: purple;
+    width: 60%;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    padding: 5px;
+}
+.inside h1
+{
+    color: whitesmoke;
+    font-size: 30px;
+}
+@media (max-width:992px)
+{
+    .AboutFive
+    {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .left-content
+    {
+        width: 100%!important;
+        padding: 10px;
+    }
+    .right-content
+    {
+        width: 100%!important;
+    }
+    .inside h1
+    {
+        color: whitesmoke;
+        font-size: 20px;
+    }   
+}

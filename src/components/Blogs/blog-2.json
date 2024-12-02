@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/10/Conversational-AI-for-Fraud-free-Insurance-Claims-1024x553.png",
+    "Events":"Conversational AI",
+    "title": "Fraud-free Insurance Claims: How Conversational AI is a Game Changer",
+   
+    "description": "It is no doubt that the insurance industry, insurance claim process in particular deals with hefty paperwork, claim settlements, adjudications,&hellip;",
+    "author": {
+      "name": "Soundarya GB",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+      "date": "October 30, 2022|4 min read"
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Interpreting-Information-Overload-1024x553.png",
+      "Events":"Conversational Insights Data Analytics",
+    "title": "Interpreting Information Overload",
+    "description": "While browsing through the vast space of the internet is when I encountered the term “Information Overload",
+    "author": {
+      "name": "Sridhar CS",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+      "date": "july 23, 2024|2 min read"
+    }
+  },
+  {
+    "id": 3,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2022/10/Master-Data-Management-1024x553.png",
+    "Events":"Data Management",
+    "title": "What is Master Data Management?",
+    "description": ">Master Data Management (MDM) is the use of tools, processes, and solutions to help an organization manage its master data.",
+    "author": {
+      "name": "pS Content Team",
+      "image": "https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+      "date": "October 28, 2022 |1 min read"
+    }
+  },
+  {
+      "id": 4,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Voice-AI-1024x553.png",
+      "Events":"Conversational AI",
+      "title": "Voice AI: Voice as an Interface",
+      "description": "Remember the good old days of using Command Prompt? You type commands and syntaxes and magic happens! Over the last&hellip;",
+       "author": {
+      "name": "Soundarya G",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+      "date": "september 22, 2024|10 min read"
+    }  
+    },
+    {
+      "id": 5,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/What-is-a-Data-Warehouse-1024x553.png",
+      "Events":"Analytics Glossary",
+      "title": " What is a Data Warehouse?",
+      "description": "A data warehouse is one of the key components of any analytics solution. It is used to store and analyze&hellip;",
+       "author": {
+      "name": "pS Content Team",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+      "date": "september 19, 2024|7 min read"
+    }  
+   
+    },
+    {
+      "id": 6,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/CAI-and-WhatsApp-1024x553.png",
+      "Events":"Conversational AI",
+      "title": "Whatsapp Marketing with Conversational AI: A Perfect Combo for Businesses to Drive CX",
+      "description": "As our lives are slowly but surely becoming dependent on smart technology, it has become imperative to meet the customers&hellip",
+       "author": {
+      "name": "Soundarya GB",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+      "date": "july 31, 2024|10 min read"
+    }  
+   
+    },
+    {
+      "id": 7,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/What-is-Data-Governance-1024x553.png",
+      "Events":"Data Management",
+      "title": "Cloud-Based Solutions for InsurTech:",
+      "description": "In today’s digital world, organizations need to get smarter about managing their data. They should have a clear idea of&hellip;",
+       "author": {
+      "name": "Sridhar CS",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+      "date": "july 30, 2024|5 min read"
+    }  
+   
+    },
+    {
+      "id": 8,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/What-is-a-Data-Lake-1024x553.png",
+      "Events":"Data Engineering Data Management",
+      "title": "Data Lake – The Next BIG Thing in the World of Data Storage",
+      "description": "The Data Lake Market was valued at USD 3.74 billion in 2020 and is expected to reach USD 17.60 billion&hellip;",
+       "author": {
+      "name": "pS Content Team",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+      "date": "july 27, 2024|10 min read"
+    }  
+   
+    },
+    {
+      "id": 9,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Conversational-AI-for-Insurance-1024x553.png",
+      "Events":" Conversational AI",
+      "title": "Futuristic Digital Insurance Sales Driven by Conversational AI",
+      "description": "Rising competition, growing digitization, and evolving customer expectations on digital insurance – the challenges in selling products and services have&hellip;",
+       "author": {
+      "name": "Soundarya GB",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/Sri-Soundarya-100x100.jpg",
+      "date": "july 27, 2024|10 min read"
+    }  
+   
+    },
+    {
+      "id": 10,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/What-is-Data-Management-1024x553.png",
+      "Events":" Data Management ",
+      "title": "What is Data Management?",
+      "description": ">Data management is the process of consuming, refining, procuring, and keeping the data of an organization in a place where&hellip;",
+       "author": {
+      "name": "pS Content Team",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+      "date": "May 20, 2024|5 min read"
+    }  
+   
+    },
+    {
+      "id": 11,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/53-1-1024x553.png",
+      "Events":" Data Analytics ",
+      "title": "Top 6 Data Literacy Tips for Beginners",
+      "description": ">More than ever, corporations across all business sectors are gathering essential data. This is because intelligent data helps businesses achieve&hellip;",
+       "author": {
+      "name": "pS Content Team",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+      "date": "June 3, 2024|5 min read"
+    }  
+   
+    },
+    {
+      "id": 12,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/Language-as-an-Interface-1024x553.png",
+      "Events":"Conversational AI Conversational Insights Glossary",
+      "title": "Hello, World – Language as the New Interface",
+      "description": "Today, we are only beginning to see the potential of chatbots, virtual personal assistants, and other forms of conversational AI&hellip; ",
+       "author": {
+      "name": "Sridhar cS",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+      "date": "June 3, 2024|5 min read"
+    }  
+   
+    },
+    {
+      "id": 13,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/03/NLP-vs-NLU-1024x553.png",
+      "Events":"Conversational Insights Glossary",
+      "title": "NLP vs NLU – Understand the Differences",
+      "description": "Ever wondered why you can talk to digital assistants like google assistant, Alexa, and Siri? NLP and NLU make it&hellip; ",
+       "author": {
+      "name": "Sridhar cS",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2022/09/cropped-Purpleslate-Favicon-1-100x100.png",
+      "date": "May 3, 2024|10 min read"
+    }  
+   
+    },
+    {
+      "id": 14,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/LLM-Powered-Chatbots.jpg",
+      "Events":"LLM",
+      "title": "Why Businesses Should Implement LLM-Powered Conversational AI Chatbots",
+      "description": "Businesses are constantly seeking innovative ways to enhance customer engagement, streamline operations, and stay ahead of the competition." ,
+      "author": {
+      "name": "Sridhar CS",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+      "date": "May 22, 2024|5 min read"
+    }  
+   
+    },
+    {
+      "id": 15,
+      "image": "https://www.purpleslate.com/wp-content/uploads/2024/05/Omni-Channel.jpg",
+      "Events":"Generative AI",
+      "title": "How to Implement Omni-Channel Support Strategies for Credit Union Members",
+      "description": "Credit unions are finding it more and more crucial to offer smooth and uniform member support across a variety of channels in the current digital era." ,
+      "author": {
+      "name": "Sridhar CS",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/Website-PS1098-Sridhar-CS-DSC06579-copy-100x100.png",
+      "date": "May 21, 2024|2 min read"
+    }  
+   
+    }
+
+
+]

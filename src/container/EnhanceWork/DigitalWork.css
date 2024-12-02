@@ -1,0 +1,194 @@
+.Conversational-commerce-service-container{
+    display: flex;
+    flex-direction: row;
+    padding: 20px 100px;
+    color:black;
+}
+.commerce-service-left{
+    display: flex;
+    flex-direction: column;
+    width:70%;
+}
+.commerce-service-left h2{
+  font-size: 45px;
+  font-weight: 800;
+  color: black;
+}
+.viewers{
+  
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+}
+.viewers p {
+    margin-right: 0px;
+  }
+.viewers p:not(:last-child) {
+    border-right: 1px solid #ccc;
+padding-right: 15px;
+   
+  }
+.commerce-service-right
+{
+    margin-top: 20px;
+    width:25%;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.like-share{
+    display: flex;
+    gap:20px;
+}
+.like-share button{
+    border:3px solid whitesmoke;
+    border-radius: 30px;
+    padding: 10px 30px;
+   outline:none;
+   background-color: white;
+   color:#888;
+}
+.like-share .media {
+    display: flex;
+    flex-direction: row;
+    display: none;
+}
+.media i{
+    font-size: 30px;
+    border-radius: 50%;
+}
+@media all and (min-width:567px) and (max-width:999px){
+    .Conversational-commerce-service-container{
+        display: flex;
+        flex-direction: column!important;
+        gap:10px!important;
+        margin: 0px 10px;
+    }
+    .commerce-service-left{
+        width: 100%;
+        gap:10px;
+    }
+    .commerce-service-left h2{
+        font-size: 2.5rem;
+    }
+    .commerce-service-right{
+        width: 100%;
+    }
+    .viewers p:not(:last-child) {
+      border-right: 1px solid #ccc;
+  padding-right: 10px;
+     
+    }
+    #underline{
+        margin: 0px 100px!important;
+    }
+}
+@media all and (max-width:567px)
+{
+    .Conversational-commerce-service-container{
+        display: flex;
+        flex-direction: column!important;
+        margin: 0px 20px;
+        padding: 20px 10px;
+    }
+    .commerce-service-left{
+        width: 100%;
+    }
+    .commerce-service-left h2{
+        font-size: 2rem;
+    }
+    .commerce-service-right{
+        width: 100%;
+    }
+    .viewers p:not(:last-child) {
+      border-right: 1px solid #ccc;
+  padding-right: 10px;
+     
+    }
+    #underline{
+        margin: 0px 20px!important;
+    }
+    .viewers{
+     
+        gap:1px;
+        font-size: 14px;
+    }
+ 
+ 
+}
+ 
+#underline{
+    margin: 0 100px;
+    margin-top: 50px;
+}
+.media {
+    display: none;
+  }
+ 
+  .like-share:hover .media {
+    display: flex;
+    gap:10px;
+    width:100%;
+    justify-content: space-around;
+  }
+ 
+  .like-share:hover button {
+    display: none;
+  }
+  .media i:hover{
+    color:#8A2BE2;
+  }
+  .fa-regular.fa-heart {
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  .fa-solid.fa-share-nodes{
+    font-size: 18px;
+    margin-right: 10px;
+  }
+
+.customer-service-container{
+    padding: 0px 100px;
+    margin-top: 30px;
+}
+ 
+.customer-say-img{
+  background-image: url('https://www.purpleslate.com/wp-content/uploads/2023/04/MicrosoftTeams-image-21.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  width:100%px;
+  margin-top: 40px;
+    }
+ 
+ 
+  @media (min-width: 768px) and (max-width: 991px) {
+    .customer-say-img {
+      height: 400px;
+    }
+     .customer-service-container{
+        padding: 0px 100px;
+    }
+  }
+ 
+  @media (min-width: 576px) and (max-width: 767px) {
+    .customer-say-img {
+      height: 500px;
+    }
+    .customer-service-container{
+        padding: 0px 100px;
+    }
+  }
+ 
+ 
+  @media (max-width: 575px) {
+    .customer-say-img {
+      height: 200px;
+     
+    }
+    .customer-service-container{
+        padding: 0px 20px;
+    }
+  }

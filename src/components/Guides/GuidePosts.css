@@ -1,0 +1,27 @@
+.guide
+{
+    font-size: 16px;
+    font-weight: 700;
+    color: purple;
+}
+.row
+{
+    padding: 20px;
+}
+.col-lg-4 
+{
+    padding:10px;
+}
+@media (max-width:576px)
+{
+    .gx-3
+    {
+        flex-wrap: wrap;
+        height: 100%;
+        padding: 10px;
+    }
+    .block1
+    {
+        padding: 10px;
+    }
+}

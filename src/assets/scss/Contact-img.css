@@ -1,0 +1,34 @@
+.contact-img h1{
+    text-align: center;
+    font-weight: 700;
+}
+.image-con
+{
+    padding: 30px 100px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+@media (max-width:992px)
+{
+    .image-con
+    {
+        padding: 20px;
+        grid-template-columns: 1fr;
+    }
+}
+@media (max-width:768px)
+{
+    .image-con
+    {
+        padding: 20px;
+        grid-template-columns: 1fr;
+    }
+}
+@media (max-width:576px)
+{
+    .image-con
+    {
+        padding: 20px;
+        grid-template-columns: 1fr;
+    }
+}

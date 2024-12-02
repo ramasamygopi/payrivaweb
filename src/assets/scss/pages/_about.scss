@@ -1,0 +1,116 @@
+    /* 12.01 About CSS */
+    .about-four
+    {
+        padding:100px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        gap: 40px;
+    }
+    .about-funfact strong
+    {
+        color:black;
+    }
+    .link
+    {
+        background-color: none;
+    }
+    .aboutfour-content
+    {
+        width: 100%;
+
+    }
+    .about-image-area{
+        height: 100%;
+        .about-image{
+            // Responsive
+            @media #{$desktop-device}{
+                right: 0;
+            }
+            @media #{$large-mobile}{
+                right: 0;
+            }
+            @media #{$extra-small-mobile}{
+                right: 0;
+                width: 250px;
+            }
+            &:nth-child(2){
+                text-align: left;
+            }
+            img{
+                border-radius: 5px;
+                box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.05), 0 1.5rem 2.2rem rgba(0, 0, 0, 0.1);
+                transition: all 1.5s cubic-bezier(0, 0, 0.2, 1);
+            }
+            &:hover {
+                & img {
+                    box-shadow: 0 0.5rem 1.2rem rgba(0, 0, 0, 0.1), 0 2rem 3rem rgba(0, 0, 0, 0.15);
+                }
+            }
+        }
+
+        & .shape {
+            &-1 {
+                right: 0;
+                top: 50px;
+                z-index: -1;
+            }
+        }
+    }
+    .sectiontitle
+    {
+        display: flex;
+        align-items: center;
+    }
+    .sec-img
+    {
+        height: 100px;
+        width: 100px;
+    }
+
+    .spn{
+        font-size: 20px;
+    }
+    .parent
+    {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        
+    }
+    .about-funfact:hover{
+        background-color: rgba($color: black, $alpha: 0.8);
+        cursor: pointer;
+    }
+    .about-funfact{
+    width: 100%;
+    border: 0.5px solid rgba($color: #000000, $alpha: 0.1);
+    border-radius: 10px;
+        p{
+            margin-bottom: 0;
+            // Responsive
+            @media #{$tablet-device}{
+                max-width: 100%;
+            }
+            @media #{$large-mobile}{
+                max-width: 100%;
+            }
+        }
+        // Responsive
+        @media #{$tablet-device}{
+            margin-top: 40px;
+        }
+        @media #{$large-mobile}{
+            margin-top: 40px;
+        }
+    }
+    .about-shape-animation{
+        position: relative;
+
+        & .shape {
+            position: absolute;
+            z-index: 1;
+
+        }
+    }

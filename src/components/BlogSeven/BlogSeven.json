@@ -1,0 +1,65 @@
+[
+    {
+    "id": 1,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2016/11/chris-anderson-linus-torvalds-1536x1025-1.jpg",
+    "Events":"Culture, Innovation, Inspiration, Technology",
+    "title": "Linus Torvalds @ TED",
+   
+    "description": "As I type this, I keep telling myself, perhaps this shamefully would  be the last thing Linus Torvalds himself would do – people wasting time writing about his talk, leave alone his creation.This would be one of my Top 10 all time favorite TED talks, ..",
+    "author": {
+      "name": "Sivaram Parameswaren",
+      "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+      "date": "November 18, 2018|2 min read"
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2016/11/screen-shot-2016-11-18-at-8-44-52-am.png",
+      "Events":"Future, Politics, Technology",
+    "title": "Post-truth need not be limited to Politics.",
+    "description": "Apparently this word has been in existence for more than a decade, but its usage saw an ascendancy in the last year, thanks to the BREXIT and the recently concluded US elections. The outcome of both these political events can be clearly attributed as post truth given that they defied conventional wisdom of the pundits while the common man, though mostly in an illogical and ill-informed way...",
+    "author": {
+        "name": "Sivaram Parameswaren",
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+        "date": "November 18, 2018|1 min read"
+      }
+  },
+  {
+    "id": 3,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2016/11/hqdefault.jpg",
+    "Events":"Disruption, Innovation, Technology",
+    "title": "Revisiting Jurassic Park.",
+    "description": "One of my favorite scenes in the film Jurassic Park is the conversation that happens over lunch table on the conflict between Science, Commerce and Ethics. Jeff Goldblum playing the role of a chaos theorist asks a bunch..",
+    "author": {
+      "name": "Sivaram Parameswaren",
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+      "date": "November 7, 2016 |1 min read"
+    }
+  },
+  {
+    "id": 4,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2016/11/screen-shot-2016-11-07-at-9-43-25-am.webp",
+    "Events":"Innovation, Technology",
+    "title": "Periodic Table",
+    "description": "ost of us would have studied about the Periodic Table from our school days and some of us in a little more detail based on what we chose as our majors. For its inventor Dimitri Mendeleyev, it was the recurring patterns on the physical and chemical properties on certain elements that helped him group them in a particular order. ",
+     "author": {
+      "name": "Sivaram Parameswaren",
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+      "date": "November 7, 2016 |10 min read"
+    }
+  },
+ 
+  {
+    "id": 6,
+    "image": "https://www.purpleslate.com/wp-content/uploads/2016/11/076-do-something.jpg",
+    "Events":"Disruption, Org Culture",
+    "title": "Do Something.",
+    "description": "So, in my wander around the www, I learnt a new term today – Iatrogenic and in simple terms, it is about the harmful effects of any of the medical intervention or treatment. .. ",
+     "author": {
+      "name": "Sivaram Parameswaren",
+      "image": "https://www.purpleslate.com/wp-content/uploads/2023/01/SIVA-IMG-1-100x100.jpg",
+      "date": "November 4, 2016 |10 min read"
+    }
+  }
+ 
+]

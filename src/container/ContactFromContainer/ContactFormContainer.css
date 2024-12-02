@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.contact-container {
+    position: relative;
+    display: inline-block;
+    font-size: 48px;
+}
+
+.contact {
+    color: black;
+    font-weight: 600;
+}
+
+.us {
+    color: #3c4b61; /* Darker blue for "Us" */
+    font-weight: 600;
+}
+
+.underline {
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    width: 100%;
+    height: 5px;
+    background: none;
+    border-bottom: 5px solid #7f3cba; /* Purple underline */
+    border-radius: 50px;
+    animation: underlineAnimation 2s infinite;
+}
+
+@keyframes underlineAnimation {
+    0% {
+        width: 0;
+    }
+    50% {
+        width: 100%;
+    }
+    100% {
+        width: 0;
+    }
+}

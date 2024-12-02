@@ -1,0 +1,147 @@
+.contaiers
+{
+    margin: 20px 0 ;
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    position: relative;
+    left: 0;
+    font-family: Raleway;
+    font-weight: bold;
+  }
+  
+.intro-content
+{
+    height: 100%;
+    padding: 0 100px;
+    width: 50%;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.intro-section
+{
+    height: 100%;
+    width: 50%;
+    margin-right: 40px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.intro-section img
+{
+    height: 100%;
+    width: 100%;
+}
+.title {
+          font-family: "Manrope", sans-serif;
+       font-size: 25px;
+             color: black;
+        }
+#content
+{
+    width: 100%;
+}
+.spl
+{
+    background-color: #82469c;
+    border: none;
+    transition: 1s;
+}
+@media (max-width:992px)
+{
+
+    .contaiers
+    {
+        height: 120vh;
+        padding-top: 20px;
+        flex-direction: column;
+    }
+    .intro-content
+    {
+        padding: 20px 50px;
+        width: 100%;
+        margin-left: 0;
+        border-bottom-left-radius: 0px;
+    }
+    .content
+
+    {
+        padding: 0;
+        width: 100%;
+    }
+    .intro-section
+    {
+        padding: 0;
+        width: 100%;
+        margin-right: 0px;
+        border-top-right-radius: 0px;  
+    }
+    #get{
+        font-size: 30px;
+    }
+}
+@media (max-width:576px)
+{
+    .contaiers
+    {
+        height: 120vh;
+        margin-top: 20px;
+        flex-direction: column;
+    }
+    .desc #get
+    {
+        font-size: 30px;
+    }
+}
+h2 {
+	color: #c19bf5;
+	font-size: 40px;
+	position: relative;
+	text-transform: uppercase;
+}
+
+h2::before {
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 100%;
+	color: #82469c;
+	overflow: hidden;
+	position: absolute;
+	content: attr(data-text);
+	border-right: 2px solid #82469c;
+	animation: animate 6s linear infinite;
+}
+
+@keyframes animate {
+	0%,
+	10%,
+	100% {
+		width: 0;
+	}
+
+	70%,
+	90% {
+		width: 90%;
+	}
+}
+#start-btn{
+    background-color: rgba(128, 0, 128, 0.938);
+    border: none;
+}
+#start-btn:hover{
+    background-color: purple;
+}

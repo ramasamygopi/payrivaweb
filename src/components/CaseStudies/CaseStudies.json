@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/08/Top-Insurance-Org-Case-Study-Banner.jpg",
+        "case":"Case Studies",
+        "tittle":"Leading Insurance Org Brings Down Partner Onboarding to Less than 24 hours",
+        "content":"Our client is a leading service provider in the Indian health insurance sector with more than 17 years of experience having a national presence handling.."
+    },
+    {
+        "id":2,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/06/Top-Insurance-Org.jpg",
+        "case":"Case Studies",
+        "tittle":"Top Insurance Org Brings down Turnaround Time from 7 Days to 7 Minutes in Bancassurance",
+        "content":"Banks are always a place for the commerce of financial products. Whether it’s personal finance or the complex financial operations of.."
+    },
+    {
+        "id":3,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/From-6-Hours-to-6-Minutes-%E2%80%93-How-We-Reduced-Turnaround-Time-for-Insurance-Agents-1.jpg",
+        "case":"Case Studies",
+        "tittle":"From 6 Hours to 6 Minutes – How We Reduced Turnaround Time for Insurance Agents",
+        "content":"Our client is a leading service provider in the Indian health insurance sector with more than 15 years of experience having a national presence handling 600+ branch..."
+    },
+    {
+        "id":4,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/true-omni-channel.png",
+        "case":"Case Studies",
+        "tittle":"True omni-channel experience",
+        "content":"Omni-channel applications is one of the key component of any modern digital strategy, is a multi-channel approach to sales that seeks to provide"
+    },
+    {
+        "id":5,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/custom-wake-aword.png",
+        "case":"Case Studies",
+        "tittle":"Custom Wakeword",
+        "content":"Can we really leverage the power of Language Interface with a custom wakeword, which lets the users just talk to a device,"
+    },
+    {
+        "id":6,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/01/How-1.jpg",
+        "case":"Case Studies",
+        "tittle":"How a Leading Pet Care Provider Saved 1/3rd of Veterinarians’ Time with Conversational AI",
+        "content":"Our client is a global leading petcare service provider headquartered in North America operating over 1000 veterinary hospitals "
+    },
+    {
+        "id":7,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/ALEXA-FOR-SALES-CHANNEL_.png",
+        "case":"Case Studies",
+        "tittle":"Alexa as a Sales channel",
+        "content":"Omni-channel applications is one of the key component of any modern digital strategy, is a multi-channel approach to sales that seeks to"
+    },
+    {
+        "id":8,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/smart-transcript.png",
+        "case":"Case Studies",
+        "tittle":"Smart Transcription",
+        "content":"Improving productivity or operational efficiency gains using smart transcription is one of the key driver for any digital transformation effort in the Healthcare and "
+    },
+    {
+        "id":9,
+        "image":"https://www.purpleslate.com/wp-content/uploads/2023/03/contact-less-commerce.png",
+        "case":"Case Studies",
+        "tittle":"Contactless Commerce",
+        "content":"In the last two years the pandemic had turned the world upside down in terms of what we had assumed as normal in the way we interacted with fellow human beings"
+    }
+ 
+]
