@@ -1,7 +1,6 @@
 {
   "name": "payriva",
-  "homepage": "https://github.com/ramasamygopi/payriva.git",
-  "base":"payriva",
+  "homepage":  "https://ramasamygopi.github.io/payriva",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
